@@ -1,0 +1,63 @@
+{
+  "hero": {
+    "slogan": "We Turn Creative Visions Into Powerful Productions",
+    "typingSpeed": 75,
+    "restartDelay": 1800,
+    "slideDuration": 5000,
+    "slides": [
+      "/images/hero/hero-1.jpg",
+      "/images/hero/hero-2.jpg"
+    ],
+    "marqueeText": "NF PROD"
+  },
+  "presentation": {
+    "sectionLabel": "About NF Production",
+    "cards": [
+      {
+        "eyebrow": "WHO WE ARE",
+        "title": "A Young Creative Production House",
+        "description": "NF Production is a creative production company driven by young talents who are passionate about audiovisual storytelling. We create YouTube films, web series, short-form content and occasional TikTok productions with a fresh, cinematic and entertaining approach.",
+        "image": "/images/presentation/presentation-1.jpg"
+      },
+      {
+        "eyebrow": "WHAT WE CREATE",
+        "title": "Stories Made For The Screen",
+        "description": "Our work focuses on producing engaging visual content for digital platforms. From scripted YouTube films to series concepts and social media videos, we transform ideas into productions that connect with audiences.",
+        "image": "/images/presentation/presentation-2.jpg"
+      },
+      {
+        "eyebrow": "OUR ENERGY",
+        "title": "Passion, Creativity And Teamwork",
+        "description": "We are a team of young creatives who believe in learning, experimenting and building powerful visual experiences. Every project is a chance to push our skills, tell better stories and grow in the world of audiovisual production.",
+        "image": "/images/presentation/presentation-3.jpg"
+      }
+    ]
+  },
+  "servicesShowcase": {
+    "topMarqueeText": "OUR SERVICES",
+    "bottomMarqueeText": "OUR PORTFOLIO",
+    "services": [
+      {
+        "number": "01",
+        "title": "Film Production",
+        "subtitle": "YouTube Films & Visual Stories",
+        "description": "We create original films for YouTube and digital platforms, from concept development to shooting and post-production. Our goal is to build entertaining visual stories with a cinematic touch.",
+        "image": "/images/services/films.jpg"
+      },
+      {
+        "number": "02",
+        "title": "Series Production",
+        "subtitle": "Episodes, Characters & Story Worlds",
+        "description": "NF Production develops and produces web series with strong characters, engaging stories and a visual identity made for online audiences. We turn simple ideas into episodes people want to follow.",
+        "image": "/images/services/series.jpg"
+      },
+      {
+        "number": "03",
+        "title": "Shorts & Reels",
+        "subtitle": "Fast, Creative & Social Content",
+        "description": "From time to time, we also create short videos, reels and TikTok-style content designed to capture attention quickly and connect with audiences on social media platforms.",
+        "image": "/images/services/reels.jpg"
+      }
+    ]
+  }
+}
