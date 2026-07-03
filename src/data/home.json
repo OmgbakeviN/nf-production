@@ -59,5 +59,44 @@
         "image": "/images/services/reels.jpg"
       }
     ]
+  },
+  "portfolioShowcase": {
+    "sectionLabel": "Featured Portfolio",
+    "title": "Major Projects",
+    "description": "Explore some of our main productions, from YouTube films to series and digital storytelling projects.",
+    "buttonText": "View All Projects",
+    "buttonLink": "/projects",
+    "projects": [
+      {
+        "id": "project-1",
+        "title": "The Last Choice",
+        "category": "YouTube Film",
+        "year": "2026",
+        "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "A dramatic YouTube film built around emotion, choices and consequences. This project reflects our approach to storytelling, performance direction and cinematic visuals.",
+        "coverImage": "/images/portfolio/project-1-cover.jpg",
+        "behindImage": "/images/portfolio/project-1-bts.jpg"
+      },
+      {
+        "id": "project-2",
+        "title": "Street Episodes",
+        "category": "Web Series",
+        "year": "2026",
+        "trailerUrl": "https://www.youtube.com/watch?v=lLmYffH8gaQ&pp=0gcJCUwLAYcqIYzv",
+        "description": "A web series concept created for online audiences, combining characters, tension and everyday situations with a young and entertaining visual style.",
+        "coverImage": "/images/portfolio/project-2-cover.jpg",
+        "behindImage": "/images/portfolio/project-2-bts.jpg"
+      },
+      {
+        "id": "project-3",
+        "title": "Fast Moments",
+        "category": "Shorts & Reels",
+        "year": "2026",
+        "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "description": "A short-form content project designed for fast attention, social media engagement and creative visual impact across mobile-first platforms.",
+        "coverImage": "/images/portfolio/project-3-cover.jpg",
+        "behindImage": "/images/portfolio/project-3-bts.jpg"
+      }
+    ]
   }
 }
