@@ -98,5 +98,35 @@
         "behindImage": "/images/portfolio/project-3-bts.jpg"
       }
     ]
+  },
+  "whyChooseUs": {
+    "title": "WHY CHOOSE US?",
+    "description": "We bring youthful energy, genuine passion and a collaborative spirit to every production. From the first idea to the final edit, we create visual stories designed to entertain, connect with audiences and leave a lasting impression.",
+    "images": [
+      "/images/why-choose-us/why-1.jpg",
+      "/images/why-choose-us/why-2.jpg",
+      "/images/why-choose-us/why-3.jpg",
+      "/images/why-choose-us/why-4.jpg",
+      "/images/why-choose-us/why-5.jpg",
+      "/images/why-choose-us/why-6.jpg",
+      "/images/why-choose-us/why-7.jpg"
+    ]
+  },
+  "contact": {
+    "topMarqueeText": "CONTACT US",
+    "bottomMarqueeText": "NF PRODUCTION",
+    "eyebrow": "LET'S WORK TOGETHER",
+    "title": "BRING YOUR NEXT STORY TO LIFE",
+    "description": "Have a film, series or short-form content idea? Tell us about your project and choose the best way to contact NF Production.",
+    "whatsappNumber": "237600000000",
+    "email": "nfproduction@example.com",
+    "facebookUrl": "https://www.facebook.com/",
+    "youtubeUrl": "https://www.youtube.com/",
+    "projectTypes": [
+      "Film Production",
+      "Series Production",
+      "Shorts & Reels",
+      "Other"
+    ]
   }
 }
