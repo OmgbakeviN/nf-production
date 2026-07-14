@@ -8,5 +8,121 @@
     "videoScale": 1.05,
     "posterImage": "/images/projects/projects-hero-poster.jpg",
     "marqueeText": "OUR PROJECTS"
+  },
+  "projectsSection": {
+    "eyebrow": "SELECTED WORK",
+    "title": "OUR PRODUCTIONS",
+    "description": "Discover the films, series and digital stories created by NF Production.",
+    "categories": [
+      "All",
+      "Films",
+      "Series",
+      "Shorts & Reels"
+    ],
+    "projects": [
+      {
+        "id": "project-1",
+        "slug": "the-last-choice",
+        "number": "01",
+        "title": "The Last Choice",
+        "category": "Films",
+        "year": "2026",
+        "duration": "18 min",
+        "description": "A dramatic production about difficult decisions, friendship and the consequences that follow every choice.",
+        "coverImage": "/images/projects/last-choice.jpg",
+        "imagePosition": "center",
+        "trailerUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+        "featured": true,
+        "layout": "large",
+        "gallery": [
+          "/images/projects/the-last-choice/gallery-1.jpg",
+          "/images/projects/the-last-choice/gallery-2.jpg",
+          "/images/projects/the-last-choice/gallery-3.jpg"
+        ]
+      },
+      {
+        "id": "project-2",
+        "slug": "street-stories",
+        "number": "02",
+        "title": "Street Stories",
+        "category": "Series",
+        "year": "2026",
+        "duration": "6 Episodes",
+        "description": "A web series following young characters as they face ambition, friendship and the realities of everyday life.",
+        "coverImage": "/images/projects/street-stories.jpg",
+        "imagePosition": "center",
+        "trailerUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+        "featured": false,
+        "layout": "wide",
+        "gallery": [
+          "/images/projects/street-stories/gallery-1.jpg",
+          "/images/projects/street-stories/gallery-2.jpg"
+        ]
+      },
+      {
+        "id": "project-3",
+        "slug": "midnight-call",
+        "number": "03",
+        "title": "Midnight Call",
+        "category": "Films",
+        "year": "2026",
+        "duration": "14 min",
+        "description": "One unexpected phone call changes the course of an ordinary night.",
+        "coverImage": "/images/projects/midnight-call.jpg",
+        "imagePosition": "center",
+        "trailerUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+        "featured": false,
+        "layout": "standard",
+        "gallery": []
+      },
+      {
+        "id": "project-4",
+        "slug": "fast-moments",
+        "number": "04",
+        "title": "Fast Moments",
+        "category": "Shorts & Reels",
+        "year": "2026",
+        "duration": "Short Format",
+        "description": "A collection of fast-paced vertical stories produced for social media audiences.",
+        "coverImage": "/images/projects/fast-moments.jpg",
+        "imagePosition": "center",
+        "trailerUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+        "featured": false,
+        "layout": "tall",
+        "gallery": []
+      },
+      {
+        "id": "project-5",
+        "slug": "broken-promises",
+        "number": "05",
+        "title": "Broken Promises",
+        "category": "Series",
+        "year": "2026",
+        "duration": "4 Episodes",
+        "description": "A character-driven series about trust, relationships and secrets that refuse to stay hidden.",
+        "coverImage": "/images/projects/broken-promises.jpg",
+        "imagePosition": "center",
+        "trailerUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+        "featured": false,
+        "layout": "standard",
+        "gallery": []
+      },
+      {
+        "id": "project-6",
+        "slug": "behind-the-lens",
+        "number": "06",
+        "title": "Behind The Lens",
+        "category": "Shorts & Reels",
+        "year": "2026",
+        "duration": "Digital Series",
+        "description": "Short behind-the-scenes moments showing the energy, teamwork and passion behind our productions.",
+        "coverImage": "/images/projects/behind-the-lens.jpg",
+        "imagePosition": "center",
+        "trailerUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+        "featured": false,
+        "layout": "wide",
+        "gallery": []
+      }
+    ]
   }
 }
