@@ -1,0 +1,12 @@
+{
+  "hero": {
+    "eyebrow": "NF PRODUCTION PRESENTS",
+    "title": "OUR PROJECTS",
+    "description": "Explore our films, original series and short-form productions created to entertain, inspire and connect with audiences.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=F06NxZtQEl4",
+    "videoOrientation": "landscape",
+    "videoScale": 1.05,
+    "posterImage": "/images/projects/projects-hero-poster.jpg",
+    "marqueeText": "OUR PROJECTS"
+  }
+}
